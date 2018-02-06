@@ -10,7 +10,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id)
   ("Spider man", "Webmaster", "Spider", 2, 2),
   ("Snoopy", "Zzzz", "Dog", 2, 2),
   ("Wolverin", "Ahouuuuu", "Wolf", 2, 2),
-  ("Electra", "Aie", "Alien", 2, 2)
+  ("Electra", "Aie", "Alien", 2, 2);
 
 INSERT INTO subgenres (name) VALUES ("grotesque"), ("comedy");
 
