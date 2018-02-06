@@ -7,7 +7,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id)
   ("Batman", "In the dark", "Human", 1, 2),
   ("Cat woman", "Miaw miaw", "Human Cat", 1, 2),
   ("Thor", "Blinded by the light", "Human", 2, 2),
-  ("Spider man"), "Webmaster", "Spider", 2, 2),
+  ("Spider man", "Webmaster", "Spider", 2, 2),
   ("Snoopy", "Zzzz", "Dog", 2, 2),
   ("Wolverin", "Ahouuuuu", "Wolf", 2, 2),
   ("Electra", "Aie", "Alien", 2, 2)
