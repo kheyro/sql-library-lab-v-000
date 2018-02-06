@@ -21,3 +21,13 @@ CREATE TABLE books (
   year INTEGER,
   serie_id INTEGER
 );
+
+CREATE TABLE characters (
+  
+)
+
+CREATE TABLE character_books (
+  id INTEGER PRIMARY KEY,
+  character_id INTEGER,
+  book_id INTEGER
+);
