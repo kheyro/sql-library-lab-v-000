@@ -15,3 +15,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id)
 INSERT INTO subgenres (name) VALUES ("grotesque"), ("comedy");
 
 INSERT INTO authors (name) VALUES ("Bernadette"), ("Victor");
+
+INSERT INTO character_books (book_id, character_id) 
+  VALUES (1, 1), (1, 2), (2, 2), (3, 2), (1, 3), (2, 3), (3, 3), (1, 4), 
+  (4, 5), (4, 6), (5, 6), (6, 6), (4, 7), (5, 7), (6, 7), (4, 8);
